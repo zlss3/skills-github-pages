@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
-there you can learn github
+title: Welcome to my blog,there you can learn github
 ---
 
